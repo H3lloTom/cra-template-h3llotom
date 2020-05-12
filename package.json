@@ -1,12 +1,13 @@
 {
   "name": "cra-template-h3llotom",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The h3llotom template for Create React App.",
   "author": "",
   "license": "MIT",
   "engines": {
     "node": ">=10"
   },
+  "main": "template.json",
   "files": [
     "template",
     "template.json"
